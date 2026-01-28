@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kakarottoe
+Kakarotto is my ign, like it to stuck to it 
 
 <!---
 Kakarottoe/Kakarottoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
